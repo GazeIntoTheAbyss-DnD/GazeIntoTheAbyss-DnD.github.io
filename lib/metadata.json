@@ -1,0 +1,799 @@
+{
+  "vaultName": "Gaze into the Abyss",
+  "lastExport": 1730343214891,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Major Characters/Anagenn, the Everliving Oracle.md",
+    "Major Characters/Athana, the Undying Prophetess.md",
+    "Major Characters/Majora Architsis.md",
+    "Major Characters/Rohesia Cento.md",
+    "Major Characters/Triton, the Hunter of Legends.md",
+    "Major Characters/Wave Mareas.md",
+    "Minor Characters/Atlanteans/Adelpha Buros.md",
+    "Minor Characters/Atlanteans/Adriana Perrelli.md",
+    "Minor Characters/Atlanteans/Aikaterini Vasilouli.md",
+    "Minor Characters/Atlanteans/Alkinoos Dellides.md",
+    "Minor Characters/Atlanteans/Andromachi Sallide.md",
+    "Minor Characters/Atlanteans/Argyris Manolelis.md",
+    "Minor Characters/Atlanteans/Chrysanthos Andreadallis.md",
+    "Minor Characters/Atlanteans/Chryssa Mareas.md",
+    "Minor Characters/Atlanteans/Daphne Mastroti.md",
+    "Minor Characters/Atlanteans/Demetra Sideroti.md",
+    "Minor Characters/Atlanteans/Demi Hadjitzi.md",
+    "Minor Characters/Atlanteans/Edvoxia Pagonalli.md",
+    "Minor Characters/Atlanteans/Ekaterini Dimitriaki.md",
+    "Minor Characters/Atlanteans/Gerasimos Thanakos.md",
+    "Minor Characters/Atlanteans/Grigoria Magallas.md",
+    "Minor Characters/Atlanteans/Helle Buriade.md",
+    "Minor Characters/Atlanteans/Herodotur Atallus.md",
+    "Minor Characters/Atlanteans/Hristos Gabrilis.md",
+    "Minor Characters/Atlanteans/Illesia Agalipus.md",
+    "Minor Characters/Atlanteans/Ismini Vlahoglou.md",
+    "Minor Characters/Atlanteans/Kyriakos Arvanitilis.md",
+    "Minor Characters/Atlanteans/Lesvía Agápi.md",
+    "Minor Characters/Atlanteans/Loukas Karalilis.md",
+    "Minor Characters/Atlanteans/Makis Mareas.md",
+    "Minor Characters/Atlanteans/Minas Anastoglou.md",
+    "Minor Characters/Atlanteans/Nestoras Vassalloulis.md",
+    "Minor Characters/Atlanteans/Nikitas Stamatatos.md",
+    "Minor Characters/Atlanteans/Panayiota Sideroulis.md",
+    "Minor Characters/Atlanteans/Panayiotis Mareas.md",
+    "Minor Characters/Atlanteans/Pannikos Anagnatos.md",
+    "Minor Characters/Atlanteans/Panos Vasciadis.md",
+    "Minor Characters/Atlanteans/Penelope Barlas.md",
+    "Minor Characters/Atlanteans/Stamatios Marelis.md",
+    "Minor Characters/Atlanteans/Stylianos Mareas.md",
+    "Minor Characters/Atlanteans/Tassos Traineas.md",
+    "Minor Characters/Atlanteans/Tilemachos Sideroulis.md",
+    "Minor Characters/Atlanteans/Vasia Mareas.md",
+    "Minor Characters/Atlanteans/Vasilia Comis.md",
+    "Minor Characters/Atlanteans/Zacharenia Moraitidi.md",
+    "Minor Characters/Atlanteans/Zenovia Boosalide.md",
+    "Minor Characters/Atlanteans/Zissis Perropoulos.md",
+    "Minor Characters/Romans/Alcimus Cruscellio.md",
+    "Minor Characters/Romans/Anacletus Cicero.md",
+    "Minor Characters/Romans/Antigonus Corculum.md",
+    "Minor Characters/Romans/Antonius Sisenna.md",
+    "Minor Characters/Romans/Arborus Centho.md",
+    "Minor Characters/Romans/Carpus Centho.md",
+    "Minor Characters/Romans/Cassian Dorsuo.md",
+    "Minor Characters/Romans/Castor Murena.md",
+    "Minor Characters/Romans/Cepheus Dolabella.md",
+    "Minor Characters/Romans/Deusdedit Clineas.md",
+    "Minor Characters/Romans/Elpidius Licinus.md",
+    "Minor Characters/Romans/Ferox Volusus.md",
+    "Minor Characters/Romans/Gaheris Ambustus.md",
+    "Minor Characters/Romans/Gallus Hispanus.md",
+    "Minor Characters/Romans/Gonorus Corculum.md",
+    "Minor Characters/Romans/Gracilis Messala.md",
+    "Minor Characters/Romans/Heliodorus Gallus.md",
+    "Minor Characters/Romans/Janus Hortator.md",
+    "Minor Characters/Romans/Lucius Lactuca.md",
+    "Minor Characters/Romans/Nicostratus Lucullus.md",
+    "Minor Characters/Romans/Oeneus Marcellus.md",
+    "Minor Characters/Romans/Patus Centho.md",
+    "Minor Characters/Romans/Raguel Caudex.md",
+    "Minor Characters/Romans/Rasmus Servilianus.md",
+    "Minor Characters/Romans/Ricardus Fulvianus.md",
+    "Minor Characters/Romans/Verissimus Corvus.md",
+    "Minor Characters/Romans/Vesper Mammula.md",
+    "Minor Characters/Romans/Vitus Hadrianus.md",
+    "Objet d'art/Evergrowth Water Lily Petal.md",
+    "Objet d'art/Kisses of the Shore.md",
+    "Objet d'art/The Azores.md",
+    "Objet d'art/The Histories of the Ancients.md",
+    "Objet d'art/The Treatise on Atlantean Warfare Against External Threats.md",
+    "Objet d'art/To Face the Leviathan.md",
+    "Setting/Atlantis.md",
+    "Setting/Characters.md",
+    "Setting/Evergrowth.md",
+    "Setting/Leviathans.md",
+    "Setting/Mystics, Arts, and the Olympian Ascent.md",
+    "Gaze into the Abyss.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Major Characters/Anagenn, the Everliving Oracle.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 2437,
+      "exportedPath": "major-characters/anagenn,-the-everliving-oracle.html",
+      "dependencies": []
+    },
+    "Major Characters/Athana, the Undying Prophetess.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 11523,
+      "exportedPath": "major-characters/athana,-the-undying-prophetess.html",
+      "dependencies": []
+    },
+    "Major Characters/Majora Architsis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 2213,
+      "exportedPath": "major-characters/majora-architsis.html",
+      "dependencies": []
+    },
+    "Major Characters/Rohesia Cento.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 2213,
+      "exportedPath": "major-characters/rohesia-cento.html",
+      "dependencies": []
+    },
+    "Major Characters/Triton, the Hunter of Legends.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 2316,
+      "exportedPath": "major-characters/triton,-the-hunter-of-legends.html",
+      "dependencies": []
+    },
+    "Major Characters/Wave Mareas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 4412,
+      "exportedPath": "major-characters/wave-mareas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Adelpha Buros.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/adelpha-buros.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Adriana Perrelli.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/adriana-perrelli.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Aikaterini Vasilouli.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/aikaterini-vasilouli.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Alkinoos Dellides.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/alkinoos-dellides.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Andromachi Sallide.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/andromachi-sallide.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Argyris Manolelis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/argyris-manolelis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Chrysanthos Andreadallis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/chrysanthos-andreadallis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Chryssa Mareas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/chryssa-mareas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Daphne Mastroti.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/daphne-mastroti.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Demetra Sideroti.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/demetra-sideroti.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Demi Hadjitzi.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/demi-hadjitzi.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Edvoxia Pagonalli.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/edvoxia-pagonalli.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Ekaterini Dimitriaki.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/ekaterini-dimitriaki.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Gerasimos Thanakos.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/gerasimos-thanakos.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Grigoria Magallas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/grigoria-magallas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Helle Buriade.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/helle-buriade.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Herodotur Atallus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/herodotur-atallus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Hristos Gabrilis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/hristos-gabrilis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Illesia Agalipus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/illesia-agalipus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Ismini Vlahoglou.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/ismini-vlahoglou.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Kyriakos Arvanitilis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/kyriakos-arvanitilis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Lesvía Agápi.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/lesvía-agápi.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Loukas Karalilis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/loukas-karalilis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Makis Mareas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/makis-mareas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Minas Anastoglou.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/minas-anastoglou.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Nestoras Vassalloulis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/nestoras-vassalloulis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Nikitas Stamatatos.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/nikitas-stamatatos.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Panayiota Sideroulis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/panayiota-sideroulis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Panayiotis Mareas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/panayiotis-mareas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Pannikos Anagnatos.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/pannikos-anagnatos.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Panos Vasciadis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/panos-vasciadis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Penelope Barlas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/penelope-barlas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Stamatios Marelis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/stamatios-marelis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Stylianos Mareas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/stylianos-mareas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Tassos Traineas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/tassos-traineas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Tilemachos Sideroulis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/tilemachos-sideroulis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Vasia Mareas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/vasia-mareas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Vasilia Comis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/vasilia-comis.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Zacharenia Moraitidi.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/zacharenia-moraitidi.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Zenovia Boosalide.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/zenovia-boosalide.html",
+      "dependencies": []
+    },
+    "Minor Characters/Atlanteans/Zissis Perropoulos.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/atlanteans/zissis-perropoulos.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Alcimus Cruscellio.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/alcimus-cruscellio.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Anacletus Cicero.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/anacletus-cicero.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Antigonus Corculum.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/antigonus-corculum.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Antonius Sisenna.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/antonius-sisenna.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Arborus Centho.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/arborus-centho.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Carpus Centho.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/carpus-centho.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Cassian Dorsuo.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/cassian-dorsuo.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Castor Murena.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/castor-murena.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Cepheus Dolabella.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/cepheus-dolabella.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Deusdedit Clineas.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/deusdedit-clineas.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Elpidius Licinus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/elpidius-licinus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Ferox Volusus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/ferox-volusus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Gaheris Ambustus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/gaheris-ambustus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Gallus Hispanus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/gallus-hispanus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Gonorus Corculum.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/gonorus-corculum.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Gracilis Messala.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/gracilis-messala.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Heliodorus Gallus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/heliodorus-gallus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Janus Hortator.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/janus-hortator.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Lucius Lactuca.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/lucius-lactuca.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Nicostratus Lucullus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/nicostratus-lucullus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Oeneus Marcellus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/oeneus-marcellus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Patus Centho.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/patus-centho.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Raguel Caudex.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/raguel-caudex.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Rasmus Servilianus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/rasmus-servilianus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Ricardus Fulvianus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/ricardus-fulvianus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Verissimus Corvus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/verissimus-corvus.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Vesper Mammula.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/vesper-mammula.html",
+      "dependencies": []
+    },
+    "Minor Characters/Romans/Vitus Hadrianus.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 714,
+      "exportedPath": "minor-characters/romans/vitus-hadrianus.html",
+      "dependencies": []
+    },
+    "Objet d'art/Evergrowth Water Lily Petal.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 205,
+      "exportedPath": "objet-d'art/evergrowth-water-lily-petal.html",
+      "dependencies": []
+    },
+    "Objet d'art/Kisses of the Shore.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 7388,
+      "exportedPath": "objet-d'art/kisses-of-the-shore.html",
+      "dependencies": []
+    },
+    "Objet d'art/The Azores.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 1089,
+      "exportedPath": "objet-d'art/the-azores.html",
+      "dependencies": []
+    },
+    "Objet d'art/The Histories of the Ancients.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 205,
+      "exportedPath": "objet-d'art/the-histories-of-the-ancients.html",
+      "dependencies": []
+    },
+    "Objet d'art/The Treatise on Atlantean Warfare Against External Threats.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 205,
+      "exportedPath": "objet-d'art/the-treatise-on-atlantean-warfare-against-external-threats.html",
+      "dependencies": []
+    },
+    "Objet d'art/To Face the Leviathan.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 205,
+      "exportedPath": "objet-d'art/to-face-the-leviathan.html",
+      "dependencies": []
+    },
+    "Setting/Atlantis.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 9251,
+      "exportedPath": "setting/atlantis.html",
+      "dependencies": []
+    },
+    "Setting/Characters.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 2502,
+      "exportedPath": "setting/characters.html",
+      "dependencies": []
+    },
+    "Setting/Evergrowth.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 11182,
+      "exportedPath": "setting/evergrowth.html",
+      "dependencies": []
+    },
+    "Setting/Leviathans.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 5559,
+      "exportedPath": "setting/leviathans.html",
+      "dependencies": []
+    },
+    "Setting/Mystics, Arts, and the Olympian Ascent.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 1104,
+      "exportedPath": "setting/mystics,-arts,-and-the-olympian-ascent.html",
+      "dependencies": []
+    },
+    "Gaze into the Abyss.md": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 2098,
+      "exportedPath": "gaze-into-the-abyss.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 34955,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 131134,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 8284,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 314,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1730343214891,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
